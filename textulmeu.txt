@@ -2,9 +2,7 @@ lalala
 lalalala
 lalalalalalalalala
 lalalallalalalaaaaaa
-<<<<<<< HEAD
-modificare pe branch
-=======
-miaumiau
+
+
 
 
